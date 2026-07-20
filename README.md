@@ -1,10 +1,29 @@
 <div align="center">
 
-# Hi 👋, I'm Jasdeep Singh
+# 👋 Hi, I'm Jasdeep Singh
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+Developer;Prisma+%7C+PostgreSQL+%7C+MongoDB;Docker+Enthusiast;Always+Learning+New+Technologies" />
+### 🚀 Full Stack Web Developer | React • Node.js • Prisma • PostgreSQL • MongoDB • Docker
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header"/>
+<p>
+I enjoy building scalable, high-performance web applications and continuously exploring modern technologies to solve real-world problems.
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/jasdeveloper1">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+![](https://komarev.com/ghpvc/?username=jasdeveloper1&color=blue&style=flat-square)
 
 </div>
 
@@ -12,91 +31,140 @@
 
 # 💫 About Me
 
-💻 Full Stack Web Developer
+💻 Passionate Full Stack Web Developer with experience building modern, responsive, and scalable web applications.
 
-🚀 I build scalable and modern web applications.
+🚀 I love transforming ideas into production-ready applications using clean architecture and efficient backend systems.
 
-🌱 Currently learning **Docker, DevOps & Cloud**
+🌱 Currently expanding my skills in:
 
-⚡ Tech Stack:
+- Docker
+- DevOps
+- Cloud Computing
+- System Design
+
+💬 Ask me about:
+
 - React.js
 - Node.js
 - Express.js
 - Prisma ORM
 - PostgreSQL
 - MongoDB
-- Docker
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
 </p>
 
-### Backend
+### ⚙ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### 🗄 Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
-### Tools
+### 🧰 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=prisma,docker,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=prisma,docker,git,github,postman,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=jasdeveloper1&theme=tokyonight&show_icons=true&hide_border=true)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jasdeveloper1&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jasdeveloper1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasdeveloper1&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasdeveloper1&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+</p>
 
-# 🏆 GitHub Trophies
+<p align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=jasdeveloper1&theme=tokyonight&no-frame=true&row=1)
+<img src="https://streak-stats.demolab.com?user=jasdeveloper1&theme=tokyonight&hide_border=true"/>
 
----
-
-# 📈 Contribution Graph
-
-[![Jasdeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jasdeveloper1&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+</p>
 
 ---
 
-# 📌 Featured Projects
+# 🏆 GitHub Achievements
 
-🚀 HRM Management System
+<p align="center">
 
-📸 Studio Shoot Management SaaS
+<img src="https://github-profile-trophy.vercel.app/?username=jasdeveloper1&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 
-🐳 Docker Learning Repository
-
-🌐 React Full Stack Applications
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 📈 Contribution Activity
 
-<p align="left">
-<a href="https://www.linkedin.com/in/jasdeep-singh-4a63ba423?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="YOUR_PORTFOLIO"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-<a href="jasdeepsinghop@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jasdeveloper1&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📌 HRM Management System
+A complete Human Resource Management platform with role-based authentication, task management, employee management, email notifications, and workflow automation.
+
+### 📌 Studio Shoot Management SaaS
+A production management platform for studios with HR, Managers, Editors, Creatives, task assignment, scheduling, and notifications.
+
+### 📌 Full Stack React Applications
+Modern React applications with responsive UI, authentication, REST APIs, and PostgreSQL integration.
+
+### 📌 Docker Learning
+Containerizing React, Node.js, PostgreSQL, and Prisma applications using Docker and Docker Compose.
+
+---
+
+# 🎯 Current Goals
+
+✅ Master Docker & Docker Compose
+
+✅ Learn Kubernetes
+
+✅ Explore AWS & Cloud Deployment
+
+✅ Improve System Design Skills
+
+✅ Contribute to Open Source
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/jasdeveloper1">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </p>
 
 ---
@@ -105,6 +173,6 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=jasdeveloper1&label=Profile%20Views&color=0e75b6&style=flat" />
+*"Code. Learn. Build. Repeat."* 🚀
 
 </div>
