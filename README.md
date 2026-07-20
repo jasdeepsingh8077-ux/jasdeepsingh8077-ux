@@ -14,7 +14,7 @@ I enjoy building scalable, high-performance web applications and continuously ex
 </a>
 
 <a href="mailto:jasdeepsinghop@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://github.com/jasdeveloper1">
