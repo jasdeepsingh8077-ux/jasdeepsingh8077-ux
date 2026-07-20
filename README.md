@@ -96,7 +96,7 @@
 <p align="left">
 <a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="YOUR_PORTFOLIO"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="jasdeepsinghop"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
