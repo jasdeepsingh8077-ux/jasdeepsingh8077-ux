@@ -157,7 +157,7 @@ Containerizing React, Node.js, PostgreSQL, and Prisma applications using Docker 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:jasdeepsinghop@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
