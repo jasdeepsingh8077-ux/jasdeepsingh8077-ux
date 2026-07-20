@@ -13,7 +13,7 @@ I enjoy building scalable, high-performance web applications and continuously ex
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:jasdeepsinghop@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
