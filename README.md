@@ -94,7 +94,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/jasdeep-singh-4a63ba423?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="YOUR_PORTFOLIO"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 <a href="jasdeepsinghop@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
